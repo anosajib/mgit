@@ -1,5 +1,5 @@
 const main = () => {
-  console.log(" this is foo");
+  console.log("chnaged foo");
 };
 
 main();
